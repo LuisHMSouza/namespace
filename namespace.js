@@ -1,14 +1,14 @@
 /********************************
 Filename: namespace.js
 Author: @Luis Souza
-Description: 
+Description: namespacing exercise
 Date: 2018-10-24
 *********************************/
 
 var MORA0199 = {
 
     init: function () {
-        
+
         let newDiv = document.createElement("div");
         newDiv.className = "box";
         newDiv.textContent = "mora0199";
@@ -23,8 +23,8 @@ var MORA0199 = {
 }
 
 function mouseClick() {
-    this.style.borderColor = "#FF007B";
-    this.style.backgroundColor = "#00DDFF";
+    this.style.borderColor = "#989898";
+    this.style.backgroundColor = "#dba200";
 }
 
 function mouseOver() {
