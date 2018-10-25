@@ -7,7 +7,7 @@ Date: 2018-10-25
 
 var LUISHMSOUZA = {
 
-        init: function () {
+        init: function() {
 
             let newDiv = document.createElement("div");
             newDiv.className = "box";
