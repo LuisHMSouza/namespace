@@ -27,4 +27,5 @@ var LUISHMSOUZA = {
                 newDiv.classList.toggle("highlight");
                 newDiv.removeAttribute("style");
             });
-        };
+        }
+};
