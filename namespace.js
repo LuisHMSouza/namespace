@@ -5,13 +5,13 @@ Description: namespacing exercise
 Date: 2018-10-25
 *********************************/
 
-var MORA0199 = {
+var LUISHMSOUZA = {
 
         init: function () {
 
             let newDiv = document.createElement("div");
             newDiv.className = "box";
-            newDiv.textContent = "mora0199";
+            newDiv.textContent = "LuisHMSouza";
 
             let divs = document.getElementById("boxes");
             divs.appendChild(newDiv);
