@@ -5,7 +5,7 @@ Description: namespacing exercise
 Date: 2018-10-25
 *********************************/
 
-var LUISHMSOUZA = {
+var MORA0199 = {
 
         init: function () {
 
